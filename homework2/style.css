@@ -1,0 +1,108 @@
+body {
+	background-color: #e1e9f7;
+	color: white;
+	font-family: Arial;
+	font-size: 20px;
+	line-height: 1.6em;
+	margin: 0;
+	display: inline;
+}
+
+p {
+	background-color: white;
+	color: black;
+	/*float: right;*/
+	text-align: center;
+	display: inline;
+	margin-top: 40px;
+}
+.leflogo {
+	width: 50%;
+	float: left;
+	margin: left;
+	display: inline;
+}
+
+.righttext {
+	/*float: right;*/
+	text-align: center;
+	color: blue;
+	font-family: Comic Sans MS;
+	display: inline;
+}
+
+.rightmessage {
+	/*float: right;*/
+	text-align: center;
+	margin-top: 50px;
+	/*margin-right: 450px;*/
+	color: gray;
+	font-family: Arial;
+	display: inline;
+}
+
+.facebooklogin {
+	color: blue;
+	text-align: center;
+	float: left;
+	margin-right: 450px;
+	display: inline;
+}
+
+header {
+	display: inline;
+	/*float: right;*/
+} 
+
+.inputtext {
+	display: inline;
+	/*float: right;*/
+	text-align: center;
+	margin-right: 600px;
+}
+
+.signup {
+	color: blue;
+	text-align: center;
+	/*float: right;*/
+	margin-top: 20px;
+	margin-right: 0px;
+	display: inline;
+}
+
+.signupmsg {
+	float: left;
+	margin-top: 20px;
+	/*margin-right: 250px;*/
+	color: gray;
+	font-family: Arial;
+	display: inline;
+
+}
+
+form {
+	display: inline;
+	float: center;
+}
+
+.login {
+	color: blue;
+	text-align: center;
+	float: left;
+	margin-top: 60px;
+	margin-right: -150px;
+	display: inline;
+}
+
+.rightpanel {
+	width: 50%;
+	float: right;
+	display: inline;
+	margin-top: 20px;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
